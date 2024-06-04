@@ -12,7 +12,7 @@ export const dialogueData = {
    <a href="https://www.youtube.com/@BroCodez" target="_blank">Bro Code</a>, <a href="https://www.youtube.com/@freecodecamp" target="_blank">Free Code Camp</a>,
   <a href="https://www.youtube.com/@thesheryianscodingschool" target="_blank">Sheryians Coding School</a> (sometimes) and <a href="https://www.youtube.com/@6PackProgrammer" target="_blank">6 Pack Programmer</a>!`,
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it. Nowadays I sleep a lot(Zzzzzz). Looks like I have to chug Coffee on a daily HEHE`,
-  resume: `This is my desk and on it is my resume. <a href="https://pdf.ac/3ESUvL" target="_blank">Link To My Resume</a>
+  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1YD0Sq3l2_rweAgTcr_GHLNh56LCe8EQM/view?usp=drive_link" target="_blank">Drive Link To My Resume</a>
   Contact me at 'sonalikn75@gmail.com' if you have any interesting job opportunities!`,
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
   Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.`,
